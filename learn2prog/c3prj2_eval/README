@@ -289,7 +289,7 @@ hand1 ; hand2
 where a hand looks like something that print_hand
 would output.  So a valid input might be
 
-Kc Ac Jh 8s 9c 2s ; Ah Kh 0s 7c 7h 3c
+Kc 0h Jh 9h 7h 2s 8s; 8h 9s 0s 0c Ah 3c
 
 For each line in the input, the test program
 will tell you:
